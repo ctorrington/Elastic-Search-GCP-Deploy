@@ -1,0 +1,6 @@
+{
+    "github.codespaces.defaultExtensions": [
+      "ms-azuretools.vscode-docker"
+    ]
+  }
+  
